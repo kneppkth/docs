@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Welcome to KNEPP!](README.md)
-* [Become a member](become-a-member.md)
-* [Access to lab](access-to-lab.md)
+* [How to get access to the darkroom](how-to-get-access-to-the-darkroom/README.md)
+  * [Pictures](how-to-get-access-to-the-darkroom/pictures.md)
 
 ## B&W Prints
 
