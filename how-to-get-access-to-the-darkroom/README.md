@@ -24,13 +24,11 @@ For a yearly access to our lab we ask for 350kr. We guarantee:
 
 After you become a member you will be able to book a time and use our darkroom whenever it will suit you.
 
-1. Send us a message on [facebook](https://www.facebook.com/KneppKTH/) or mail \(info@knepp.se\). Tell us about yourself and:
-   1. If you're a THS member
-   2. How long you're going to stay in Stockholm
-   3. If you prefer to pay for the membership using bank transfer / paypal / cash
-2. We will set up a intro course on how to use our equipment
-3. W will ask you about the number on your kth access card so that you could visit the darkroom anytime on your own
-4. You'll be ready to book a time on our booking system knepp.skedda.com!
+1. Become a member through [Signup form](https://forms.gle/g8pPNQWrsmEnE9i37)
+2. Send us a message on [facebook](https://www.facebook.com/KneppKTH/) or mail \(info@knepp.se\). Tell us a bit about yourself and if you'd prefer to pay for the membership using bank transfer / paypal / cash
+3. We will set up a intro course on how to use our equipment
+4. W will ask you about the number on your kth access card so that you could visit the darkroom anytime on your own
+5. You'll be ready to book a time on our booking system knepp.skedda.com!
 
 
 
