@@ -40,11 +40,11 @@ Once the preview has opened, drag the marquee to the edges of your image.
 # 10. Corrections
 Under Corrections there are several icons that will allow you to make color and density corrections.
 
-   A. The A will make general auto corrections based on the area in the bounding box.
+   1. The A will make general auto corrections based on the area in the bounding box.
 
-   B. The red graph icon to the far left is the Histogram. Clicking that button will show a graph of the tonal range of the image in the bounding box. The sliders underneath the graph show the output level from where the scan will begin collecting data. To get the most information possible in the highlight and shadow areas pull the sliders on the far left and right to edges of the data in the graph. The middle slider can be moved back and forth to increase or decrease exposure of the middle tones.
+   2. The red graph icon to the far left is the Histogram. Clicking that button will show a graph of the tonal range of the image in the bounding box. The sliders underneath the graph show the output level from where the scan will begin collecting data. To get the most information possible in the highlight and shadow areas pull the sliders on the far left and right to edges of the data in the graph. The middle slider can be moved back and forth to increase or decrease exposure of the middle tones.
 
-   C. Within the Histogram dialogue a simple way to adjust the color balance is to use the gray pipette to select an area of the image you feel is close to neutral gray. Click the pipette on that area and the software will adjust the color balance of the image according to the neutral gray you selected. You can try various areas in the image to determine the color balance you want.
+   3. Within the Histogram dialogue a simple way to adjust the color balance is to use the gray pipette to select an area of the image you feel is close to neutral gray. Click the pipette on that area and the software will adjust the color balance of the image according to the neutral gray you selected. You can try various areas in the image to determine the color balance you want.
 
 # 11. Sharpening and FlexTouch
 Turn sharpening off \(Set Unsharp Mask ON and amount -120\). Sharpen in Photoshop with Smart Sharpen for better results. Turn FlexTouch OFF and remove dust in Photoshop.
