@@ -4,8 +4,6 @@ description: >-
   scanner!
 ---
 
-# Imacon scanning
-
 The Imacon scanner is for film only. If you are scanning other media use the Canon flatbed scanner and for 35mm the Nikon is recommened. This is a scanner for high resolution prints.
 
 # 0. Turn on the Imacon and computer
