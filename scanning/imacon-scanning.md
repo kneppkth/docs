@@ -6,7 +6,8 @@ description: >-
 
 # Imacon scanning
 
-The Imacon scanner is for film only. If you are scanning other media use the Canon flatbed scanner and for 35mm the Nikon is recommened. This is a scanner for high resolution prints.
+The Imacon scanner is for film only. If you are scanning other media use the Canon flatbed scanner and for 35mm the Nikon is recommened. This is a scanner for high resolution prints.  
+
 
 1. Open the FlexColor software \(in the Applications folder\).
 2. Place the negative emulsion \(the matte side\) side down in the negative holder.
