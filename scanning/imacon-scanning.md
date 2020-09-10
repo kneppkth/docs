@@ -6,6 +6,8 @@ description: >-
 
 # Imacon scanning
 
+![Our Imacon scanner in the lab](../.gitbook/assets/04.jpg)
+
 The Imacon scanner is for film only. If you are scanning other media use the Canon flatbed scanner and for 35mm the Nikon is recommened. This is a scanner for high resolution prints.
 
 ## 0. Turn on the Imacon and computer
@@ -18,13 +20,19 @@ FlexColor software should open automatically otherwise it's in the Applications 
 
 ## 2. Place the negtive in the holder
 
+{% hint style="warning" %}
+It's very helpful to use cotton gloves in loading your film into the holders to avoid damaging your negatives. Knepp sells these for 15kr a pair.
+{% endhint %}
+
 Place the negative emulsion \(the matte side\) side down in the negative holder.
 
-\*It’s helpful to clean the negative with compressed air after it’s been placed in the holder to minimize dust.
+{% hint style="info" %}
+It’s helpful to clean the negative with compressed air after it’s been placed in the holder to minimize dust.
+{% endhint %}
 
 ## 3. Feed the holder to the scanner
 
-Place the negative holder with middle notch facing up on the loading platform so that it is between the two metal guides on each side. The metal notch should fit snugly into the black magnetic holder.
+Place the negative holder with middle notch facing up on the loading platform so that it is between the two metal guides on each side. The metal notch should fit snugly into the black magnetic holder. It's imporant to be carefully here as incorrect feeding can damage the scanner.
 
 ## 4. Set Film type
 

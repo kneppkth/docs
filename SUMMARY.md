@@ -12,12 +12,10 @@
 
 ## B&W Development
 
-* [How to start?](b-and-w-development/how-to-start.md)
 * [Developing B&W film rolls](b-and-w-development/developing-b-and-w-film-rolls.md)
 
 ## Color development
 
-* [How to start?](color-development/how-to-start.md)
 * [Developing C41 film rolls](color-development/developing-c41-film-rolls.md)
 
 ## Scanning
