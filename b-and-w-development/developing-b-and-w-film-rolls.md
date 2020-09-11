@@ -21,6 +21,10 @@ description: >-
 
 Let’s start with loading the film. This needs to be done in complete darkness. If you have a dark room that’s perfect, to make things easy in the dark, lay your developing tank out in front of you with the lid off and the reel removed. You will also need a film canister opener \(for 35mm\), some scissors and your film. When you are ready, turn off the lights.
 
+{% hint style="info" %}
+If it's your first time developing film we recommend this video to show you all the steps involved: [https://www.youtube.com/watch?v=aPQ7OPy8T2w](https://www.youtube.com/watch?v=aPQ7OPy8T2w)
+{% endhint %}
+
 ## **2. Practice**
 
 We would definitely recommend getting some exposed film to try the next step out in the light, we have some in the lab. You’ll get the hang of it and be loading the reels without thinking soon, but it can be tricky the first time. Practice makes perfect they say.
@@ -70,6 +74,18 @@ When the film has been through the wash, fill the tank with water and put a coup
 You can use your fingers, chamois leather or squeegees to wipe the excess water from the film before hanging up to dry. Use a clip at the top and one at the bottom to help prevent curly film once it’s dry.
 
 That is all there is to it. You should now be able to see your fully developed film.
+
+## 9. Cleaning up
+
+{% hint style="info" %}
+For the shared darkroom to work - everyone has to take responsibility for cleaning and making sure everything is where it should be!
+{% endhint %}
+
+Pour chemicals back into their bottles. Take all the equipment that you have used and clean it thourougly with dish soap. Put everything on the drying rack. Make sure that everything is where it should be when you leave.
+
+## 10. \(optional\) - Scan or take photos of your negatives 
+
+Knepp offers great scanners for all your 135 and 120 film. If you don't have time to scan right now - use the light tables and your phone to photograph your negatives! Now it's time to enjoy your work! **Well done!**
 
 
 

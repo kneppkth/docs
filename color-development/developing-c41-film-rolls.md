@@ -31,7 +31,7 @@ Now that film is in the tank, pre soak the film in water. The water should be 37
 Always use gloves when handling C41 chemicals! You don't want to get them on your hands.
 {% endhint %}
 
-Developer is kept in the bottle with brown tape on the cap. Pour the soaking water out. Set your timer for 3 minutes 15 seconds. Start the timer and pour the developer into the tank. Invert for the first 15 seconds, then tap the tank on the zink to remove any evil air bubbles. After this, agitate for 10-15 seconds every 30 seconds. After 3 min 15 sec, pour the developer into an empty beaker. Put this aside for now. Later, use a funnel to pour the developer back into the bottle.
+Developer is kept in the bottle with brown tape on the cap. Pour the soaking water out. Set your timer for 3 minutes 15 seconds. Start the timer and pour the developer into the tank. Invert for the first 15 seconds, then tap the tank on the sink to remove any evil air bubbles. After this, agitate for 10-15 seconds every 30 seconds. After 3 min 15 sec, pour the developer into an empty beaker. Put this aside for now. Later, use a funnel to pour the developer back into the bottle.
 
 ## Step 5 - Bleacher
 
