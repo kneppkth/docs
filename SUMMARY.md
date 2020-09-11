@@ -4,12 +4,6 @@
 * [How to get access to the darkroom](how-to-get-access-to-the-darkroom/README.md)
   * [Pictures](how-to-get-access-to-the-darkroom/pictures.md)
 
-## B&W Prints
-
-* [How to start?](b-and-w-prints/how-to-start.md)
-* [Enlarging pictures](b-and-w-prints/enlarging-pictures.md)
-* [Printing contact sheets](b-and-w-prints/printing-contact-sheets.md)
-
 ## B&W Development
 
 * [Developing B&W film rolls](b-and-w-development/developing-b-and-w-film-rolls.md)
@@ -21,4 +15,9 @@
 ## Scanning
 
 * [Imacon scanning](scanning/imacon-scanning.md)
+
+## B&W Prints
+
+* [Enlarging pictures](b-and-w-prints/enlarging-pictures.md)
+* [Printing contact sheets](b-and-w-prints/printing-contact-sheets.md)
 

@@ -61,8 +61,6 @@ As the development time nears the end get ready to pour out your developer. A on
 
 ## **6. Stop Bath**
 
-![](../.gitbook/assets/14.jpg)
-
 Now quickly pour in the diluted stop bath. This will completely stop development. Agitate the stop for a minute and pour back into a storage bottle. The stop can be reused many times so don’t waste it.
 
 ## **7. Fix Your Film**
