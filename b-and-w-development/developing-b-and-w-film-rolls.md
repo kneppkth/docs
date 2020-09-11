@@ -29,6 +29,8 @@ If it's your first time developing film we recommend this video to show you all 
 
 We would definitely recommend getting some exposed film to try the next step out in the light, we have some in the lab. You’ll get the hang of it and be loading the reels without thinking soon, but it can be tricky the first time. Practice makes perfect they say.
 
+![](../.gitbook/assets/jex52vqj2yx4us3tsb7ju6sdym.jpg)
+
 ## **3. Load Your Film**
 
 Now open your undeveloped film. Use an opener on 35mm to remove the top ring of the film canister and pull out the roll of film. Carefully cut the tongue of the film, leaving you with a straight edge that goes all the way across. If it is 120, then just unravel the roll and detach from the backing paper.
@@ -55,7 +57,11 @@ This is the standard agitation, but some developers may have instructions for ot
 
 As the development time nears the end get ready to pour out your developer. A one-shot developer, such as Foma R09 should be discarded. A reusable developer can be put into an airtight plastic bottle to be used again.
 
+![](../.gitbook/assets/e1cf183d3445aeabd21d34ae8111c03e.jpg)
+
 ## **6. Stop Bath**
+
+![](../.gitbook/assets/14.jpg)
 
 Now quickly pour in the diluted stop bath. This will completely stop development. Agitate the stop for a minute and pour back into a storage bottle. The stop can be reused many times so don’t waste it.
 
@@ -74,6 +80,8 @@ When the film has been through the wash, fill the tank with water and put a coup
 You can use your fingers, chamois leather or squeegees to wipe the excess water from the film before hanging up to dry. Use a clip at the top and one at the bottom to help prevent curly film once it’s dry.
 
 That is all there is to it. You should now be able to see your fully developed film.
+
+![](../.gitbook/assets/3jdfcrhi3z4lzudfxwza5xaubi.jpg)
 
 ## 9. Cleaning up
 

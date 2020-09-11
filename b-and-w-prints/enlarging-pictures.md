@@ -1,4 +1,6 @@
 # Enlarging pictures
 
-guide coming soon...
+{% embed url="https://www.youtube.com/watch?v=O31OZgnCoAw" %}
+
+
 
