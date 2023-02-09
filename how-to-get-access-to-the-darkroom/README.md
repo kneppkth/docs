@@ -24,7 +24,7 @@ For a yearly access to our lab we ask for 350kr. We guarantee:
 
 After you become a member you will be able to book a time and use our darkroom whenever it will suit you.
 
-1. Become a member through [Signup form](https://forms.gle/g8pPNQWrsmEnE9i37)
+1. Become a member through [Signup form](https://forms.gle/pQQ772MBiGzdGUgW8)
 2. Send us a message on [facebook](https://www.facebook.com/KneppKTH/) or mail \(info@knepp.se\). Tell us a bit about yourself and if you'd prefer to pay for the membership using bank transfer / paypal / cash
 3. We will set up a intro course on how to use our equipment
 4. W will ask you about the number on your kth access card so that you could visit the darkroom anytime on your own
