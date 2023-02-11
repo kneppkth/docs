@@ -1,6 +1,6 @@
 ---
 description: >-
-  This is Knepp's guide on how to develop C41 using the Digibase C41-chemistry.
+  This is Knepp's guide on how to develop C41 using the Rollei Colorchem C41-chemistry.
   C41 is, unlike B/W, a standardized process. That means you can develop
   different film stocks in the same time!
 ---
@@ -23,7 +23,7 @@ Empty the water filled developing tank. In complete dark, load your film roll\(s
 
 ## Step 3 - Pre soak \(again\)
 
-Now that film is in the tank, pre soak the film in water. The water should be 37.8 degrees Celsius. Let the film soak 2-3 minutes.
+Now that film is in the tank, pre soak the film in water. The water should be 37.8 degrees Celsius. Let the film soak 3-4 minutes.
 
 ## Step 4 - Developer
 
@@ -31,19 +31,19 @@ Now that film is in the tank, pre soak the film in water. The water should be 37
 Always use gloves when handling C41 chemicals! You don't want to get them on your hands.
 {% endhint %}
 
-Developer is kept in the bottle with brown tape on the cap. Pour the soaking water out. Set your timer for 3 minutes 15 seconds. Start the timer and pour the developer into the tank. Invert for the first 15 seconds, then tap the tank on the sink to remove any evil air bubbles. After this, agitate for 10-15 seconds every 30 seconds. After 3 min 15 sec, pour the developer into an empty beaker. Put this aside for now. Later, use a funnel to pour the developer back into the bottle.
+Developer is kept in the bottle labelled as C41 Dev. Pour the soaking water out. Set your timer for 3 minutes 15 seconds. Start the timer and pour the developer into the tank. Let it rotate in Jobo. After 3 min 15 sec, pour the developer into an empty beaker. Put this aside for now. Later, use a funnel to pour the developer back into the bottle.
 
-## Step 5 - Bleacher
+## Step 5 - Bleacher and Fixer
 
-Bleach is in the bottle with clear tape on the cap. Set your timer for 3 min - 4 min 20 sec. Pour the bleach in. Invert for the first 15 seconds, then tap the tank on the zink to remove any evil air bubbles. After this, agitate for 10-15 seconds every 30 seconds. When the time is out, pour the bleach into an empty beaker. Put this aside for now. Later, use a funnel to pour the bleach back into the bottle.
+Bleach is in the bottle labelled as C41 Blix. Set your timer for 6 min. Pour the bleach in. Let it rotate in Jobo. When the time is out, pour the blix into an empty beaker. Put this aside for now. Later, use a funnel to pour the bleach back into the bottle.
 
-## Step 6 - Fixer
+## Step 6 - Washing
 
-Fix is in the bottle with red tape on the cap. Set your timer for 4 min 20 sec - 6 min 30 sec. Pour the fixer in. Tap the tank on the zink to remove evil air bubbles. Agitate every 30 seconds. When the time is out, pour the fix into an empty beaker. Put this aside for now. Later, use a funnel to pour the fix back into the bottle.
+Now the film is already developed. But we need to wash it with water. Prepare the right amount of water with temperature ca. 38 degrees, so you can change the water every 40-50 seconds, at least 4 times. 
 
 ## Step 7 - Stabilizer
 
-Stabilizer is in the bottle with no tape on the cap. Set your timer for 1 min 20 sec. Pour the stabilizer in. Pour the bleach in. Invert for the first 15 seconds, then tap the tank on the zink to remove any evil air bubbles. After this, agitate for 10-15 seconds every 30 seconds. When the time is out, pour the stabilizer into an empty beaker. Put this aside for now. Later, use a funnel to pour the stabilizer back into the bottle.
+Stabilizer is in the bottle labelled as C41 Stab. Set your timer for 1 min. Pour the stabilizer in. Let it rotate in Jobo. When the time is out, pour the stabilizer into an empty beaker. Put this aside for now. Later, use a funnel to pour the stabilizer back into the bottle.
 
 ## Step 8 - Drying
 
@@ -56,6 +56,10 @@ For the shared darkroom to work - everyone has to take responsibility for cleani
 {% endhint %}
 
 Pour chemicals back into their bottles. Take all the equipment that you have used and clean it thourougly with dish soap. Put everything on the drying rack. Make sure that everything is where it should be when you leave.
+
+{% hint style="info" %}
+Don't forget to update the C41 dev chart, so we know when to prepare new batch of fresh chemicals! 
+{% endhint %}
 
 ## Step 10 \(optional\) - Scan or take photos of your negatives 
 
