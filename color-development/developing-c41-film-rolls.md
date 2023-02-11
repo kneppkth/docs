@@ -58,7 +58,7 @@ For the shared darkroom to work - everyone has to take responsibility for cleani
 Pour chemicals back into their bottles. Take all the equipment that you have used and clean it thourougly with dish soap. Put everything on the drying rack. Make sure that everything is where it should be when you leave.
 
 {% hint style="info" %}
-Don't forget to update the C41 dev chart, so we know when to prepare new batch of fresh chemicals! 
+Don't forget to update the C41 dev chart, so we know when to prepare a new batch of fresh chemicals! 
 {% endhint %}
 
 ## Step 10 \(optional\) - Scan or take photos of your negatives 
