@@ -2,7 +2,7 @@
 description: A guide on how to become a member.
 ---
 
-# How to join
+# Become a new member
 
 Head over to the [signup page](https://knepp.se/user/signup) and enter your details, a KTH email is required as we are only open to KTH students. Select the right type of membership and click on "signup". If you are a THS member you can select until when your current THS membership is valid for, KTH cards are also mandatory for paid darkroom memberships.
 

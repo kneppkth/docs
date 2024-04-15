@@ -1,4 +1,8 @@
-# How to make bookings
+---
+description: A guide on how to make bookings.
+---
+
+# Create and view bookings
 
 Head over to the [calendar page](https://knepp.se/booking/calendar) to see the current darkroom bookings and introduction courses. If you are on a desktop computer, a calendar view is also available for the entire month. You can see both other member's bookings and your own but you can only create or cancel your own. To create a new booking simply enter the right times and the activity you want to book on the "new booking" form.
 
