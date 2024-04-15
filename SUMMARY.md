@@ -26,3 +26,4 @@
 * [Become a new member](darkroom-management-system/become-a-new-member.md)
 * [Create and view bookings](darkroom-management-system/create-and-view-bookings.md)
 * [Renew membership](darkroom-management-system/renew-membership.md)
+* [Slack integration](darkroom-management-system/slack-integration.md)
