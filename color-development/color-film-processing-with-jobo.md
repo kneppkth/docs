@@ -10,13 +10,13 @@ This guide explains how to use the **JOBO CPA 2 processor** with the **JOBO tank
 Used to control temperature, agitation, and timing.  
 Includes a water bath, lift head, and control panel with temperature and motor speed knobs.
 
-![JOBO CPA 2 Processor](images/cpa2_processor.jpg)
+<figure><img src="../.gitbook/assets/JOBO-01.jpg" alt=""><figcaption><p>Jobo CPA2 Processor</p></figcaption></figure>
 
 ### 2. JOBO Tank System
 - **1500 series**: for 135 and 120 rolls  
 - **2800 series**: for large format film and paper prints
 
-![JOBO Tank System](images/cpa2_tanks.jpg)
+<figure><img src="../.gitbook/assets/JOBO-10.jpg" alt=""><figcaption><p>Jobo film developing tanks and print drums</p></figcaption></figure>
 
 ---
 
