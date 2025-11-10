@@ -11,6 +11,7 @@
 ## Color development
 
 * [Developing C41 film rolls](color-development/developing-c41-film-rolls.md)
+* [JOBO CPA 2 – Color Film Processing Guide](color-development/color-film-processing-with-jobo.md)
 
 ## Scanning
 
