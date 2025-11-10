@@ -116,7 +116,7 @@ It’s always good to have a theromometer around to check the actual temperature
 
 ## Step 6 – Cleanup
 
-<figure><img src="../.gitbook/assets/JOBO-11.jpg" alt=""></figure>
+<figure><img src="../.gitbook/assets/JOBO-15.jpg" alt=""></figure>
 
 1. Wash and dry:
    - Tanks  
