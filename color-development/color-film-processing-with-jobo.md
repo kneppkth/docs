@@ -16,29 +16,37 @@ Includes a water bath, lift head, and control panel with temperature and motor s
 - **1500 series**: for 135 and 120 rolls  
 - **2800 series**: for large format film and paper prints
 
-<figure><img src="../.gitbook/assets/JOBO-10.jpg" alt=""><figcaption><p>Jobo film developing tanks and print drums</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/JOBO-10.jpg" alt=""><figcaption><p>Jobo film developing tanks and paper drums</p></figcaption></figure>
 
 ---
 
 ## Step 1 – Preparation
 
-![Preparation](images/cpa2_preparation.jpg)
+<figure><img src="../.gitbook/assets/JOBO-12.jpg" alt=""></figure>
 
+- Before turning on the machine, set timer. Max time is 5 hours.
 - Choose your tank:
   - **1520 tank** → up to **two 135 or 120 rolls**
   - **1520 + 1530 tanks combined** → up to **five 135 or six 120 rolls**
 - Prepare chemicals:
   ```text
-  1520 tank:         240–400 ml
-  1520 + 1530 tank:  570–900 ml
+  1520 tank:         240–300 ml
+  1520 + 1530 tank:  570–600 ml
   ```
 - Pour chemicals into labeled bottles and matching measuring cylinders.
+- Fill the Jobo with water until the level reaches **the center of the roller holder**.
+
+<figure><img src="../.gitbook/assets/JOBO-02.jpg" alt=""></figure>
+
+{% hint style="info" %}
+It’s helpful pour in already hot water, so the heating process gets quicker. To do it, set 40° on the water tap.
+{% endhint %}
 
 ---
 
 ## Step 2 – Pre-warming Setup
 
-![Prewarming setup](images/cpa2_prewarm.jpg)
+<figure><img src="../.gitbook/assets/JOBO-05.jpg" alt=""></figure>
 
 1. Place bottles and measuring cylinders in the water bath for pre-warming.  
    Lock them in place to prevent floating.
@@ -46,25 +54,30 @@ Includes a water bath, lift head, and control panel with temperature and motor s
    - Inward = for 1500 tanks  
    - Outward = for 2800 tanks
 3. Attach the tank to the processor.
-4. Fill the water bath until the level reaches **the center of the roller holder**.
+
+<figure><img src="../.gitbook/assets/JOBO-07.jpg" alt=""></figure>
 
 ---
 
 ## Step 3 – Temperature Setup
 
-![Temperature setup](images/cpa2_temperature.jpg)
+<figure><img src="../.gitbook/assets/JOBO-03.jpg" alt=""></figure>
 
 1. Turn on:
    - `NETZ 1` – Main power  
    - `PUMPE 1` – Circulation pump
-2. Set the **temperature knob** to **36 °C** (≈ 38 °C actual in the bath).
+2. Set the **temperature knob** to **40 °C** (≈ 38 °C actual in the bath).
 3. When the water bath reaches **38 °C**, wait an additional **10 minutes** to stabilize.
+
+{% hint style="info" %}
+It’s always good to have a theromometer around to check the actual temperature. 
+{% endhint %}
 
 ---
 
 ## Step 4 – Processing
 
-![Processing](images/cpa2_processing.jpg)
+<figure><img src="../.gitbook/assets/JOBO-06.jpg" alt=""></figure>
 
 1. Turn on the **motor** (`MOTOR 1`) and set speed to **F** or **3** — suitable for color processing.  
 2. Add chemicals through the **lift head opening**, in order:
@@ -83,13 +96,15 @@ Includes a water bath, lift head, and control panel with temperature and motor s
    - Drain the chemical through the lift head pipe  
    - Pour in the next solution
 
+<figure><img src="../.gitbook/assets/JOBO-11.jpg" alt=""></figure>
+
 ---
 
 ## Step 5 – Finishing Up
 
-![Finishing up](images/cpa2_finish.jpg)
+<figure><img src="../.gitbook/assets/JOBO-14.jpg" alt=""></figure>
 
-1. After the final rinse, **turn off the motor**.  
+1. After the final rinse, **turn off the processor**.  
 2. Lift the tank and drain remaining liquids.  
 3. Carefully remove the tank from the processor.  
 4. Turn off the **pump** and **processor**.  
@@ -99,7 +114,7 @@ Includes a water bath, lift head, and control panel with temperature and motor s
 
 ## Step 6 – Cleanup
 
-![Cleanup](images/cpa2_cleanup.jpg)
+<figure><img src="../.gitbook/assets/JOBO-11.jpg" alt=""></figure>
 
 1. Wash and dry:
    - Tanks  
@@ -107,14 +122,14 @@ Includes a water bath, lift head, and control panel with temperature and motor s
    - Measuring cylinders  
    - Containers
 2. Return all equipment to its proper place.  
-3. Turn off the **wall switch**.
+3. Reset the **timer**.
 
 ---
 
 ## Notes
 
 - Always wear gloves when handling chemicals.  
-- Ensure proper ventilation in the workspace.  
+<del> - Ensure proper ventilation in the workspace. </del>
 - Check the C-41 developer usage chart before starting — replace chemistry as needed.  
 - Keep the work area dry and clean after use.
 
