@@ -108,7 +108,9 @@ It’s always good to have a theromometer around to check the actual temperature
 2. Lift the tank and drain remaining liquids.  
 3. Carefully remove the tank from the processor.  
 4. Turn off the **pump** and **processor**.  
-5. Empty the water bath.
+5. Empty the water bath by opening the drain under the processor.
+
+<figure><img src="../.gitbook/assets/JOBO-04.jpg" alt=""></figure>
 
 ---
 
